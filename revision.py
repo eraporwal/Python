@@ -1,0 +1,10 @@
+#a=input("enter first no")
+#b=input("enter 2nd no")
+#sum=int(a)+int(b)
+#print("the sum is",sum)
+#print(c)
+#dict1:{"8","5","4","2"}
+#print(dict1["d"])
+a=float(input("enter base"))
+b=float(input("enter height"))
+print("area of triangle is : ",1/2*a*b)

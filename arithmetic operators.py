@@ -1,0 +1,13 @@
+a=4
+b=2
+c=a**b
+print(c)
+d=b**a
+print(d)
+a=5
+print(a)
+a-=6
+print(a)
+a=4
+b=2
+print(a<b)
